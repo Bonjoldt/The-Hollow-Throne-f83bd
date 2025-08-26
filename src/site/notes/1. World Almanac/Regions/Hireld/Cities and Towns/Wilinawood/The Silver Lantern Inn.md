@@ -11,7 +11,7 @@
 > | ---- | --- |
 > | Purpose | Tavern |
 > | Location | [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood\|Wilinawood]] |
-> | Region | Hireld |
+> | Region | [[1. World Almanac/Regions/Hireld/Hireld\|Hireld]] |
 > # Unique Person(s)
  >| Name|  Role |
 > | ---- | --- |
@@ -28,6 +28,6 @@ After the beginning of the Fourth Epoch, the Inn was purchased by Madame Rowena 
 
 ##### Campaign Events
 
-Session 1 - The party meets for the first time. During this time, the Puppet's Blue Lantern resonates throughout the Inn, revealing the ethereal presence that was living upstairs. After retrieving the lantern and assisting Gubraol Moonwater with his search, the party later returns to the Inn with the place ranscaked, it's workers attacked, and the Silver Lantern gone.
+[[3. Session Summaries/Session 1 Played on 08-24-2025\| Session 1]] - The party meets for the first time. During this time, the Puppet's Blue Lantern resonates throughout the Inn, revealing the ethereal presence that was living upstairs. After retrieving the lantern and assisting Gubraol Moonwater with his search, the party later returns to the Inn with the place ranscaked, it's workers attacked, and the Silver Lantern gone.
 
 

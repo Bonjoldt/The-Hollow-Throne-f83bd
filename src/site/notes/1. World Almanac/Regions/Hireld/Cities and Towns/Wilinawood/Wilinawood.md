@@ -11,7 +11,7 @@
 > | ---- | --- |
 > | Type | Hamlet |
 > | Population | 84 |
-> | Region | Hireld
+> | Region | [[1. World Almanac/Regions/Hireld/Hireld\|Hireld]]
 > ### Travel (-/ 8 hrs per day)
 > | Destination |  Travel Days |
 > | ---- | --- |
@@ -67,6 +67,11 @@ For those who stay long enough to earn trust, Wilinawood reveals itself as a pla
 ##### Geography
 
 On the north side of the hamlet sits the Stone Heath, a communal game room that many travelers and locals a like spend most of their time gambling. In the center of the settlement stands the Silver Lantern Inn, which  as a tradeless hamlet is where the main source of income supports the abysmal economy. On the southern edge sits a market with few traders who are always willing to negotiate for a coin. To the northeast sits Bracejaw, a place of religious gathering for soldiers. Some say those who pray at the statue before battle are granted a lifetime of fortune.
+
+
+### Sessions Visited
+
+[[3. Session Summaries/Session 1 Played on 08-24-2025\| Session 1]]
 
 
 
