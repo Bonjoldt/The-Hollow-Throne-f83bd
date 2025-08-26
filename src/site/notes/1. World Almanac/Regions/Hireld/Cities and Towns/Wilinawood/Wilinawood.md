@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-world-almanac/regions/hireld/cities-and-towns/wilinawood/wilinawood/"}
+{"dg-publish":true,"dg-path":" World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood.md","permalink":"/world-almanac/regions/hireld/cities-and-towns/wilinawood/wilinawood/"}
 ---
 
 

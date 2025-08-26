@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-world-almanac/regions/hireld/hireld/"}
+{"dg-publish":true,"dg-path":" World Almanac/Regions/Hireld/Hireld.md","permalink":"/world-almanac/regions/hireld/hireld/"}
 ---
 
 

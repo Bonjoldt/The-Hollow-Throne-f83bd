@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-world-almanac/regions/hireld/cities-and-towns/wilinawood/the-silver-lantern-inn/"}
+{"dg-publish":true,"dg-path":" World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/The Silver Lantern Inn.md","permalink":"/world-almanac/regions/hireld/cities-and-towns/wilinawood/the-silver-lantern-inn/"}
 ---
 
 
@@ -28,6 +28,6 @@ After the beginning of the Fourth Epoch, the Inn was purchased by Madame Rowena 
 
 ##### Campaign Events
 
-Events Here
+Session 1 - The party meets for the first time. During this time, the Puppet's Blue Lantern resonates throughout the Inn, revealing the ethereal presence that was living upstairs. After retrieving the lantern and assisting Gubraol Moonwater with his search, the party later returns to the Inn with the place ranscaked, it's workers attacked, and the Silver Lantern gone.
 
 
