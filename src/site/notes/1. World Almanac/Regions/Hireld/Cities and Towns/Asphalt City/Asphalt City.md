@@ -20,7 +20,7 @@
 > | Type|  Stat |
 > | ---- | --- |
 > | Govt Type | Corporate|
-> | Ruler | [[NPCs/Vildor Faertrin\|Vildor Faertrin]] |
+> | Ruler | [[1. World Almanac/Regions/Hireld/NPCs/Vildor Faertrin\|Vildor Faertrin]] |
 > | Defense | Well-Defended |
 >  ### Organizations
 > | Type |  Stats |

@@ -8,7 +8,7 @@
 > # Notable Locations
  >|  Location |  Ruler/Person of Interest |
 > | ---- | --- |
-> | [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood\|Wilinawood]] | [[NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]] |
+> | [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood\|Wilinawood]] | [[1. World Almanac/Regions/Hireld/NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]] |
 > | Asphalt City | Vildor Faertrin|
 > | Streford Cove | Baron Reinar Wyrmling|
 > | Arago Ruins| Urixidor

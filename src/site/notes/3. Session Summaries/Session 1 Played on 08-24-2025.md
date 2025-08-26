@@ -4,7 +4,7 @@
 
 ### Synopsis
 
-- The party convenes at [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/The Silver Lantern Inn\|The Silver Lantern Inn]] in [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood\|Wilinawood]] and meets [[NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]]
+- The party convenes at [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/The Silver Lantern Inn\|The Silver Lantern Inn]] in [[1. World Almanac/Regions/Hireld/Cities and Towns/Wilinawood/Wilinawood\|Wilinawood]] and meets [[1. World Almanac/Regions/Hireld/NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]]
 - They muse around before the Puppet places his lantern on the table, which releases a butterfly and emits an ethereal light that bounces upwards towards the corner of the inn, which Rowena urges them to avoid
 - With peaked curiosity, they traverse to the second floor and find a ghostly woman nestled in the space, before darting through the window
 - The party gives chase, defeats her in combat, and claims their Silver Lantern.
@@ -16,5 +16,5 @@
 
 ### Important NPCs
 
-- [[NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]]
-- Gubraol Moonwater
+- [[1. World Almanac/Regions/Hireld/NPCs/Madame Rowena Greythorn\|Madame Rowena Greythorn]]
+- [[1. World Almanac/Regions/Hireld/NPCs/Gubraol Moonwater\|Gubraol Moonwater]]

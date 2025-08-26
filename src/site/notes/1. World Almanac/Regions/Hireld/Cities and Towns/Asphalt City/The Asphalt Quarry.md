@@ -15,7 +15,7 @@
 > # Unique Person(s)
  >| Name|  Role |
 > | ---- | --- |
-> | [[NPCs/Vildor Faertrin\|Vildor Faertrin]] | Foreman/City Head |
+> | [[1. World Almanac/Regions/Hireld/NPCs/Vildor Faertrin\|Vildor Faertrin]] | Foreman/City Head |
 > | Fork | Vildor's Assistant |
 
 
